@@ -1,0 +1,7 @@
+dave.pgm dave_norm.pgm 1 0 0 256 256 histostretchcv
+dave.pgm dave_equal.pgm 1 0 0 256 256 histoequalcv
+dave.pgm dave_stretch.pgm 1 0 0 256 256 histostretch 0 255
+circles.ppm circles_hough.ppm 1 0 0 225 225 houghtrans
+house.pgm house_sobel.pgm 2 0 0 2032 2428 hesobel 2032 0 2032 2420 sobelcv 3
+engine.pgm engine_canny.pgm 2 0 0 150 225 hecanny 150 0 150 225 cannycv
+qrcode.pgm ignore.ppm 1 0 0 200 200 qrdecode
